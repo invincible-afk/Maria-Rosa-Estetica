@@ -17,7 +17,7 @@ export const services = [
     description: 'Un cuidado integral diseñado para purificar, equilibrar y regenerar la piel, eliminando el exceso de grasa y las impurezas.',
     price: '5.000$',
     duration: '45 min',
-    image: 'src/img/tratamiento-acne.webp'
+    image: '../img/tratamiento-acne.webp'
   },
   {
     id: '1',
