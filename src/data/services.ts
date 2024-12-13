@@ -17,7 +17,7 @@ export const services = [
     description: 'Un cuidado integral diseñado para purificar, equilibrar y regenerar la piel, eliminando el exceso de grasa y las impurezas.',
     price: '5.000$',
     duration: '45 min',
-    image: 'src/img/tratamiento-acne.webp'
+    image: 'src/tratamiento-acne.webp'
   },
   {
     id: '1',
@@ -26,7 +26,7 @@ export const services = [
     description: 'Tratamiento personalizado que desintoxica, equilibra y mejora la textura de tu piel, ideal para lucir un rostro impecable.',
     price: '5.000$',
     duration: '60 min',
-    image: 'src/img/limpieza-facial.webp'
+    image: 'src/limpieza-facial.webp'
   },
   {
     id: '2',
@@ -62,7 +62,7 @@ export const services = [
     description: 'Técnica específica para combatir la celulitis y remodelar la silueta corporal.',
     price: '5.000$',
     duration: '75 min',
-    image: 'src/img/masaje-reductor.webp'
+    image: 'src/masaje-reductor.webp'
   },
   {
     id: '6',
@@ -80,7 +80,7 @@ export const services = [
     description: 'Depilación profesional con cera tibia o caliente, adaptada a cada tipo de piel y zona.',
     price: 'Desde 5.000$',
     duration: '30-60 min',
-    image: 'src/img/depilacion-cera.webp'
+    image: 'src/depilacion-cera.webp'
   },
   {
     id: '8',
@@ -89,7 +89,7 @@ export const services = [
     description: 'Tratamiento con láser de última generación para una eliminación permanente del vello.',
     price: 'Desde 5.000$',
     duration: '30-45 min',
-    image: 'src/img/depi-definitiva.webp'
+    image: 'src/depi-definitiva.webp'
   },
   {
     id: '9',
