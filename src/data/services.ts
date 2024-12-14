@@ -11,7 +11,7 @@ export const services = [
     image: 'https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?auto=format&fit=crop&q=80&w=800'
   },
   {
-    id: '1',
+    id: '2',
     categoryId: 'facial',
     title: 'Tratamiento antiacné',
     description: 'Un cuidado integral diseñado para purificar, equilibrar y regenerar la piel, eliminando el exceso de grasa y las impurezas.',
@@ -20,7 +20,7 @@ export const services = [
     image: '/img/tratamiento-acne.webp'
   },
   {
-    id: '1',
+    id: '3',
     categoryId: 'facial',
     title: 'Tratamiento De Limpieza Facial',
     description: 'Tratamiento personalizado que desintoxica, equilibra y mejora la textura de tu piel, ideal para lucir un rostro impecable.',
@@ -29,7 +29,7 @@ export const services = [
     image: '/img/limpieza-facial.webp'
   },
   {
-    id: '2',
+    id: '4',
     categoryId: 'massage',
     title: 'Masaje Holístico',
     description: 'Técnica personalizada que combina diferentes métodos de masaje para un bienestar total.',
@@ -38,7 +38,7 @@ export const services = [
     image: 'https://images.unsplash.com/photo-1600334089648-b0d9d3028eb2?auto=format&fit=crop&q=80&w=800'
   },
   {
-    id: '3',
+    id: '5',
     categoryId: 'massage',
     title: 'Masaje Descontracturante',
     description: 'Técnica especializada para liberar tensiones musculares y aliviar el dolor crónico.',
@@ -47,7 +47,7 @@ export const services = [
     image: 'https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&q=80&w=800'
   },
   {
-    id: '4',
+    id: '6',
     categoryId: 'massage',
     title: 'Masaje Relajante',
     description: 'Suaves movimientos que inducen a un estado profundo de relajación y bienestar.',
@@ -56,7 +56,7 @@ export const services = [
     image: 'https://images.unsplash.com/photo-1519823551278-64ac92734fb1?auto=format&fit=crop&q=80&w=800'
   },
   {
-    id: '5',
+    id: '7',
     categoryId: 'massage',
     title: 'Masaje Reductor',
     description: 'Técnica específica para combatir la celulitis y remodelar la silueta corporal.',
@@ -65,7 +65,7 @@ export const services = [
     image: '/img/masaje-reductor.webp'
   },
   {
-    id: '6',
+    id: '8',
     categoryId: 'body',
     title: 'Tratamiento Corporal Detox',
     description: 'Ritual completo de desintoxicación que incluye exfoliación, envoltura y masaje.',
@@ -74,7 +74,7 @@ export const services = [
     image: 'https://images.unsplash.com/photo-1519823551278-64ac92734fb1?auto=format&fit=crop&q=80&w=800'
   },
   {
-    id: '7',
+    id: '9',
     categoryId: 'hair',
     title: 'Depilación con Cera',
     description: 'Depilación profesional con cera tibia o caliente, adaptada a cada tipo de piel y zona.',
@@ -83,7 +83,7 @@ export const services = [
     image: '/img/depilacion-cera.webp'
   },
   {
-    id: '8',
+    id: '10',
     categoryId: 'hair',
     title: 'Depilación Definitiva',
     description: 'Tratamiento con láser de última generación para una eliminación permanente del vello.',
@@ -92,7 +92,7 @@ export const services = [
     image: '/img/depi-definitiva.webp'
   },
   {
-    id: '9',
+    id: '11',
     categoryId: 'makeup',
     title: 'Maquillaje Profesional',
     description: 'Creaciones únicas para eventos especiales, caracterización y efectos especiales.',
